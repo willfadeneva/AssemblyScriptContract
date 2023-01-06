@@ -1,0 +1,2 @@
+# AssemblyScriptContract
+NEAR
