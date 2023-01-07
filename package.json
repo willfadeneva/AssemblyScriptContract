@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/willfadeneva/AssemblyScriptContract#readme",
   "devDependencies": {
-    "near-sdk-as": "^3.2.3"
+    "near-sdk-as": "^1.2.1"
+  },
+  "dependencies": {
+    "cli": "^1.0.1",
+    "near": "^0.2.2"
   }
 }
