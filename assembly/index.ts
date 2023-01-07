@@ -4,7 +4,7 @@ export class Greeting
 {
     getGreeting(accountID: string) : string | null
     {
-      return storage.get<String>(accountID, "The Greeting Is Not Avialable");
+      return storage.get<String>(accountID, "The Greeting Is Not Available");
     }
 
     setGreeting(greeting: string) : void
