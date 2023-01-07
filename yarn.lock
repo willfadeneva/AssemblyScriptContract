@@ -86,7 +86,7 @@
   "resolved" "https://registry.npmjs.org/assemblyscript-json/-/assemblyscript-json-0.3.3.tgz"
   "version" "0.3.3"
 
-"assemblyscript@^0.12.0":
+"assemblyscript@^0.12.0", "assemblyscript@^0.12.5":
   "integrity" "sha512-dCRudCG6Wj0aH+03M55czf16+KO5RZBf1MKCbAEemrKuVqRaMduP5KeEeCXXZd3jaTx/NNXkeLfoVklO6Gw3rw=="
   "resolved" "https://registry.npmjs.org/assemblyscript/-/assemblyscript-0.12.5.tgz"
   "version" "0.12.5"
