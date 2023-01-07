@@ -1,2 +1,4 @@
 # AssemblyScriptContract
 NEAR
+Hi
+
